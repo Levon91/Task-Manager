@@ -1,4 +1,4 @@
-package am.iguan.taskmanager;
+package am.iguan.taskmanager.test;
 
 /**
  * Created by Admin on 13.12.2014.
